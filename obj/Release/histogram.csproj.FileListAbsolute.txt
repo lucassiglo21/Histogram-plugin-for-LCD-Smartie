@@ -1,0 +1,8 @@
+C:\Users\lucas\Desktop\csharpplugin\bin\Release\histogram.dll
+C:\Users\lucas\Desktop\csharpplugin\obj\Release\histogram.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\csharpplugin\obj\Release\histogram.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\csharpplugin\obj\Release\histogram.dll
+D:\Programas\lcd smartie\histogram source\bin\Release\histogram.dll
+D:\Programas\lcd smartie\histogram source\obj\Release\histogram.csproj.AssemblyReference.cache
+D:\Programas\lcd smartie\histogram source\obj\Release\histogram.csproj.CoreCompileInputs.cache
+D:\Programas\lcd smartie\histogram source\obj\Release\histogram.dll

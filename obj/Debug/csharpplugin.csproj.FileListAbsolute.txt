@@ -1,0 +1,11 @@
+C:\Users\lucas\Desktop\LCDSmartie-master\LCDSmartie-master\DLL example\csharpplugin\bin\Debug\csharpplugin.dll
+C:\Users\lucas\Desktop\LCDSmartie-master\LCDSmartie-master\DLL example\csharpplugin\bin\Debug\csharpplugin.pdb
+C:\Users\lucas\Desktop\LCDSmartie-master\LCDSmartie-master\DLL example\csharpplugin\obj\Debug\csharpplugin.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\LCDSmartie-master\LCDSmartie-master\DLL example\csharpplugin\obj\Debug\csharpplugin.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\LCDSmartie-master\LCDSmartie-master\DLL example\csharpplugin\obj\Debug\csharpplugin.dll
+C:\Users\lucas\Desktop\LCDSmartie-master\LCDSmartie-master\DLL example\csharpplugin\obj\Debug\csharpplugin.pdb
+C:\Users\lucas\Desktop\csharpplugin\obj\Debug\csharpplugin.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\csharpplugin\bin\Debug\histogram.dll
+C:\Users\lucas\Desktop\csharpplugin\bin\Debug\histogram.pdb
+C:\Users\lucas\Desktop\csharpplugin\obj\Debug\histogram.dll
+C:\Users\lucas\Desktop\csharpplugin\obj\Debug\histogram.pdb

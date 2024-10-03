@@ -1,0 +1,6 @@
+C:\Users\lucas\Desktop\csharpplugin\bin\Debug\histogram.dll
+C:\Users\lucas\Desktop\csharpplugin\bin\Debug\histogram.pdb
+C:\Users\lucas\Desktop\csharpplugin\obj\Debug\histogram.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\csharpplugin\obj\Debug\histogram.dll
+C:\Users\lucas\Desktop\csharpplugin\obj\Debug\histogram.pdb
+C:\Users\lucas\Desktop\csharpplugin\obj\Debug\histogram.csproj.AssemblyReference.cache
