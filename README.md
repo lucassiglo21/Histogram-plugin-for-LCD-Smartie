@@ -1,6 +1,8 @@
 # Histogram-plugin-for-LCD-Smartie
 This plugin allows the user to show histograms on your display
 
+![pic](Demo.png)
+
 Supports 1,2,3 and 4 row histograms and an arbitrary amount of columns
 
 Supports multiple histograms of arbitrary size on a single screen
